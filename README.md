@@ -1,4 +1,4 @@
-# TicTactToe
+# TicTacToe
 
 Command line 2 player TicTacToe game. 
 
